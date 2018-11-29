@@ -16,6 +16,6 @@
     </dependency>
   </dependencies>
   <build>
-    <finalName>WebApp</finalName>
+    <finalName>creditcheck</finalName>
   </build>
 </project>
