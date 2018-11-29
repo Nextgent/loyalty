@@ -1,1 +1,1 @@
-# loyalty
+# sample-tomcat
